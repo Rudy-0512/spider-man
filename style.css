@@ -1,6 +1,24 @@
-h1{color:red;}
+h1{color:#155181ff;}
+h3{color:#155181ff}
 
 @font-face {
-    font-family: Homoarakhn;
-    src: url();
+    font-family:Mighty Spidey ;
+    src: url(mighty.spidey);
+}
+
+body{
+    font-family:Mighty Spidey;
+    margin:0;
+    padding:20px;
+    color:red;
+    background-color: #8a272cff;
+}
+
+img{
+    position:relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+    z-index: 1;
 }
