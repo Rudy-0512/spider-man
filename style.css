@@ -2,13 +2,9 @@
 h1{color:#155181ff;}
 h3{color:#155181ff}
 
-@font-face {
-    font-family:Mighty Spidey ;
-    src: url(mighty.spidey);
-}
 
 body{
-    font-family:Mighty Spidey;
+    font-family:Marvel Regular;
     margin:0;
     padding:20px;
     color:red;
@@ -26,22 +22,30 @@ img{
 
 h1{
    text-align: center;
+   font-family:'Marvel-Regular' ;
 }
 
 
 h3{
     text-align: center;
+    font-family:'Marvel-Regular' ;
  }
 
  input.placeholder {
     text-align: center;
 }
 .job {
-    top:350x;
+    display: flex;
+    justify-content: ;
+}
+/* top:350x; */
     
-    left: 155px;
-    position: absolute;
-    border: none;
-    font-size: 17;
-    text-align: center;
+    /* left: 155px; */
+    /* position: absolute; */
+    /* border: none; */
+    /* font-size: 17; */
+    /* text-align: center; */
+
+.delete{
+
 }
