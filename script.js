@@ -6,7 +6,8 @@ let button= document.querySelector("button");
 let normalSpider= document.getElementById("Normal-spider");
 let spiderSuit= document.getElementById("Spider-suit");
 let result=document.querySelector(".result");
-let h1 = document.querySelector("h1");
+let delete = document.querySelector("delete");
+
 
 
 button.onclick = function() {

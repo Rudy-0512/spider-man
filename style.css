@@ -23,3 +23,25 @@ img{
     width:50%;
     z-index: 1;
 }
+
+h1{
+   text-align: center;
+}
+
+
+h3{
+    text-align: center;
+ }
+
+ input.placeholder {
+    text-align: center;
+}
+.job {
+    top:350x;
+    
+    left: 155px;
+    position: absolute;
+    border: none;
+    font-size: 17;
+    text-align: center;
+}
