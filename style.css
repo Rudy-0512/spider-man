@@ -1,6 +1,6 @@
 
-h1{color:#155181ff;}
-h3{color:#155181ff}
+h1{color:rgb(255, 255, 255);}
+h3{color:rgb(255, 255, 255)}
 
 
 body{
@@ -49,3 +49,15 @@ h3{
 .delete{
 
 }
+
+.input{
+  width: 400px;
+  margin: 30px auto;
+  padding: 20px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+   
