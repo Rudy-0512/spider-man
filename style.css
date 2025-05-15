@@ -19,7 +19,7 @@ body{
 
 
 .main{
-    width: 800px;
+    width: 80%;
 margin:0 auto;
 }
 
@@ -28,7 +28,7 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width:50%;
+    width:100%;
     z-index: 1;
 }
 
@@ -38,19 +38,23 @@ h1{
    font-family:Homoarakhn Regular ;
    padding: 20px 0;
    text-align: center;
-   font-size: 4rem;
+   font-size: 5vw;
    text-align: center;
    color: white;
+   padding:3%;
 }
 
 
 h3{
     text-align: center;
     font-family:Homoarakhn Regular ;
+    font-size: 5vw;
+    padding:3%;
  }
 
  input.placeholder {
     text-align: center;
+    font-size: 5vw;
 }
 .job {
     display: flex;
@@ -64,9 +68,7 @@ h3{
     /* font-size: 17; */
     /* text-align: center; */
 
-.delete{
 
-}
 
 .input{
   width: 90%;
